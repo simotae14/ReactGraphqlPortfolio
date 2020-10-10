@@ -17,6 +17,7 @@
   "author": "Simone Taeggi",
   "license": "ISC",
   "dependencies": {
+    "bootstrap-material-design": "^4.1.1",
     "next": "^9.5.5",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
