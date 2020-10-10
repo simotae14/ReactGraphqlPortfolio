@@ -224,6 +224,8 @@ html {
 
 #sticky-footer {
   background-color: #141618;
+  color: $gray-10;
+
   // position: absolute;
   // bottom: 0;
   // left: 0;
@@ -769,7 +771,6 @@ html {
   /* Custom page footer */
   .footer {
     padding-top: 1.5rem;
-    color: #777;
     border-top: .05rem solid #e5e5e5;
   }
 
@@ -819,4 +820,8 @@ html {
       border-bottom: 0;
     }
   }
+}
+
+.heart {
+  color: $red;
 }
